@@ -18,5 +18,5 @@ const connectWithDB = async () => {
 
 module.exports = {
   PORT: process.env.PORT,
-  connectWithDB
+  connectWithDB,
 };
